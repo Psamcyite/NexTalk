@@ -50,10 +50,6 @@ We welcome contributions! If you'd like to contribute to NexTalk, please follow 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- Thanks to [Mercy Amarachi Agbayi] for her valuable contributions.
-
 ## Contact
 
 For support or inquiries, please contact us at [psamcyitedev@gmail.com](mailto:psamcyitedev@gmail.com).
