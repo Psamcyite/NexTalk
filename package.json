@@ -12,8 +12,10 @@
   "dependencies": {
     "@ant-design/icons": "^5.2.6",
     "axios": "^1.6.3",
+    "chat-engine": "^0.9.21",
     "firebase": "^10.7.1",
     "react": "^18.2.0",
+    "react-chat-engine": "^1.11.28",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.1",
     "web-vitals": "^3.5.1"
