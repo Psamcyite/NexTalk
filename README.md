@@ -37,10 +37,10 @@ npm install
 1. Run the app locally:
 
 ```bash
-npm start
+npm run dev
 ```
 
-2. Access NexTalk in your browser at [http://localhost:3000](http://localhost:3000).
+2. Access NexTalk in your browser at [http://localhost:5173](http://localhost:5173).
 
 ## Contributing
 
